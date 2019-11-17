@@ -1,2 +1,3 @@
 # code-katas
-Code challenges from codewars.com
+
+Helping a friend learn to code with code challenges from [Codewars](https://www.codewars.com/).
